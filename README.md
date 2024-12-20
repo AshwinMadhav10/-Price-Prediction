@@ -9,6 +9,11 @@ This project demonstrates a simple implementation of house price prediction usin
 
 Linear regression is a basic yet powerful technique for modeling relationships between dependent and independent variables. In this project, we use the house size (in square feet) as the independent variable and the house price (in thousands of dollars) as the dependent variable.
 
+## Access My Colab
+```
+https://colab.research.google.com/drive/1p6l2EZYkkBn_A2s3LOmmJeil9NBXkbug?usp=drive_link
+```
+
 ## Code Explanation
 
 ### Libraries Used
@@ -54,10 +59,6 @@ print("Predicted price for a 2000 sq. ft. house:", predicted_price[0])
 ## Example Output
 ```
 Predicted price for a 2000 sq. ft. house: 306.93763440860213
-```
-## Access My Colab
-```
-https://colab.research.google.com/drive/1p6l2EZYkkBn_A2s3LOmmJeil9NBXkbug?usp=drive_link
 ```
 
 ## How to Use
